@@ -5,5 +5,5 @@
 # 3
 <a href="https://github.com/ashishps1/awesome-low-level-design/tree/main/solutions/java/src/cricinfo">ashish</a>
 
-# same as sashish with some figure
+#  with some figure
 <a href="https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-case-studies/design-cricinfo.md">new</a>
